@@ -6,5 +6,6 @@ mkdir build
 cd build
 cmake ..
 make
-./Game
+./GamePatterns
+
 
