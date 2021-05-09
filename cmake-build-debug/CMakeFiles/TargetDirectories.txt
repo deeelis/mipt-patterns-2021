@@ -1,0 +1,3 @@
+/home/roma/mipt-patterns-2021/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/roma/mipt-patterns-2021/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/roma/mipt-patterns-2021/cmake-build-debug/CMakeFiles/PatternsGame.dir

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PatternsGame"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/roma/mipt-patterns-2021/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/roma/mipt-patterns-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/roma/mipt-patterns-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/roma/mipt-patterns-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/roma/mipt-patterns-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/roma/mipt-patterns-2021/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/roma/mipt-patterns-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/roma/mipt-patterns-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/roma/mipt-patterns-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/roma/mipt-patterns-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/roma/mipt-patterns-2021/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/roma/mipt-patterns-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/roma/mipt-patterns-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/roma/mipt-patterns-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/roma/mipt-patterns-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PatternsGame">
+				<Option output="/home/roma/mipt-patterns-2021/cmake-build-debug/PatternsGame" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/roma/mipt-patterns-2021/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/roma/mipt-patterns-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 PatternsGame"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/roma/mipt-patterns-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/roma/mipt-patterns-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/roma/mipt-patterns-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PatternsGame/fast">
+				<Option output="/home/roma/mipt-patterns-2021/cmake-build-debug/PatternsGame" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/roma/mipt-patterns-2021/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/roma/mipt-patterns-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 PatternsGame/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/roma/mipt-patterns-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/roma/mipt-patterns-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/roma/mipt-patterns-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/roma/mipt-patterns-2021/Game/Commands/AttackCommand.cpp">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Game/Commands/AttackCommand.h">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Game/Commands/Command.cpp">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Game/Commands/Command.h">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Game/Commands/CreateArcherCommand.cpp">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Game/Commands/CreateArcherCommand.h">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Game/Commands/CreateWarriorCommand.cpp">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Game/Commands/CreateWarriorCommand.h">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Game/Commands/MoveLeftCommand.cpp">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Game/Commands/MoveLeftCommand.h">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Game/Commands/MoveRightCommand.cpp">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Game/Commands/MoveRightCommand.h">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Game/Field.cpp">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Game/Field.h">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Game/Game.cpp">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Game/Game.h">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/UnitGroups/Army.cpp">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/UnitGroups/Army.h">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/UnitGroups/Economy.cpp">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/UnitGroups/Economy.h">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/UnitGroups/UnitsGroup.cpp">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/UnitGroups/UnitsGroup.h">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Units/Archer.cpp">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Units/Archer.h">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Units/GermanArcher.cpp">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Units/GermanArcher.h">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Units/GermanWarrior.cpp">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Units/GermanWarrior.h">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Units/RussianArcher.cpp">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Units/RussianArcher.h">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Units/RussianWarrior.cpp">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Units/RussianWarrior.h">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Units/Unit.cpp">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Units/Unit.h">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Units/Warrior.cpp">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/Units/Warrior.h">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/UnitsFactory/GermanUnitsFactory.cpp">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/UnitsFactory/GermanUnitsFactory.h">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/UnitsFactory/RussianUnitsFactory.cpp">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/UnitsFactory/RussianUnitsFactory.h">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/UnitsFactory/UnitsFactory.cpp">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/UnitsFactory/UnitsFactory.h">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/constants.h">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/main.cpp">
+			<Option target="PatternsGame"/>
+		</Unit>
+		<Unit filename="/home/roma/mipt-patterns-2021/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,4 @@
+/home/roma/clion-2020.2.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/roma/mipt-patterns-2021
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/roma/mipt-patterns-2021/cmake-build-debug
