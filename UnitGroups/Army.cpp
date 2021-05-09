@@ -31,7 +31,7 @@ void Army::remove(Unit *group) {
     _children.erase(std::remove(_children.begin(), _children.end(), group), _children.end());
 }
 
-std::vector<Unit*> Army::getChildren() {
+std::vector<UnitsGroup*> Army::getChildren() {
     return _children;
 }
 
@@ -74,7 +74,7 @@ void Army::print() {
 }
 
 void Army::update() {
-    std::vector<Unit*> newChildren;
+    std::vector<UnitsGroup*> newChildren;
     for (auto& unit : _children) {
         if (unit->isAlive()) {
             newChildren.push_back(unit);

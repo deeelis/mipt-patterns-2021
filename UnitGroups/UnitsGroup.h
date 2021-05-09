@@ -7,6 +7,9 @@ public:
     virtual void execute() = 0;
     virtual void moveRight() = 0;
     virtual void moveLeft() = 0;
+    virtual void attack(UnitsGroup* unit) = 0;
+    virtual void print() = 0;
+    virtual bool isAlive() = 0;
 };
 
 
