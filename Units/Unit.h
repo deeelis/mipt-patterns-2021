@@ -24,7 +24,7 @@ public:
     void moveLeft() override;
     void setDefaultPosition(bool isRussianUnit);
     virtual void execute() override {}
-    virtual void attack(Unit* unit) = 0;
+    virtual void attack(UnitsGroup* unit) = 0;
     virtual void defence(int attack);
     int getPosition();
     void print();

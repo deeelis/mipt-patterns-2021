@@ -14,7 +14,7 @@ class Archer;
 class Warrior;
 
 class Army : public UnitsGroup {
-    std::vector<Unit*> _children;
+    std::vector<UnitsGroup*> _children;
     Economy _economy;
 
     void _addUnit(Unit* unit);
@@ -24,7 +24,7 @@ public:
     void remove(Unit* group);
     void moveRight() override;
     void moveLeft() override;
-    std::vector<Unit*> getChildren();
+    std::vector<UnitsGroup*> getChildren();
     void execute() override;
     void attack(Army* enemyArmy);
     void print();

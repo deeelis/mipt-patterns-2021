@@ -1,3 +1,0 @@
-/home/roma/PatternsGame/build/CMakeFiles/rebuild_cache.dir
-/home/roma/PatternsGame/build/CMakeFiles/PatternsGame.dir
-/home/roma/PatternsGame/build/CMakeFiles/edit_cache.dir
